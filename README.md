@@ -1,3 +1,3 @@
 # github-demo
 my first github repository
-Author - Akshay
+Author - Akshay sasikumar
